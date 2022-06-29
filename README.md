@@ -11,7 +11,7 @@
   <div align="left">
 
 
-  - **Dept. of SW Engineering, Chonnam National Univery  [2019. 03 ~]**
+  - **Dept. of SW Engineering, Chonnam National University  [2019. 03 ~]**
   - **Computer Vision Lab [2021. 04. 01 ~]**
   - **이것저것 공부해보는 중**
   - **🔗 [GitHub Blog](https://hyegeun.github.io/)**
