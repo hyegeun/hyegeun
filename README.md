@@ -11,7 +11,7 @@
   <div align="left">
 
 
-  - **M.S Course in AI Convergence, Chonnam National University [2023. 03 ~]**
+  - **Master Course in AI Convergence, Chonnam National University [2023. 03 ~]**
   - **Computer Vision Lab [2021. 04. 01 ~]**
   - **이것저것 공부해보는 중**
   - **🔗 [GitHub Blog](https://hyegeun.github.io/)**
