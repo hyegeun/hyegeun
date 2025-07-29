@@ -3,18 +3,15 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyegeun&layout=compact&langs_count=10"/>
 
   ### 💻 Hye-Geun Kim (김혜근)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyegeun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hyegeun+GitHub&edge_flat=false)](https://hits.seeyoufarm.com) <a href = https://www.instagram.com/_hyegeun_/><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-
 ---
 
   <div align="left">
 
 
-  - **Master Course in AI Convergence, Chonnam National University [2023. 03 ~]**
-  - **Computer Vision Lab [2021. 04. 01 ~]**
+  - **M.S. in AI Convergence, Chonnam National University [2023. 03. - 2025. 02.]**
+  - **B.S. in Software Enginnering, Chonnam National University [2019. 03. - 2023. 02.]**
+  - **Computer Vision Lab [2021. 04. 01. - 2025. 02. 26.]**
   - **이것저것 공부해보는 중**
-  - **🔗 [GitHub Blog](https://hyegeun.github.io/)**
 
 ---
   
